@@ -1,0 +1,30 @@
+{
+  "name": "askthelocals-landing",
+  "version": "1.0.0",
+  "description": "Homepage for AskTheLocals.NYC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanosaur/askthelocals-landing.git"
+  },
+  "keywords": [
+    "nyc",
+    "travel",
+    "neighborhoods",
+    "history",
+    "new",
+    "york",
+    "new",
+    "york",
+    "city"
+  ],
+  "author": "ryanosaur",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryanosaur/askthelocals-landing/issues"
+  },
+  "homepage": "https://github.com/ryanosaur/askthelocals-landing#readme"
+}
