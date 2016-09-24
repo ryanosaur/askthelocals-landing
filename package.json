@@ -4,27 +4,30 @@
   "description": "Homepage for AskTheLocals.NYC",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build-css": "./bin/build-css",
+    "watch-sass": "./bin/watch-sass"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ryanosaur/askthelocals-landing.git"
   },
   "keywords": [
-    "nyc",
     "travel",
     "neighborhoods",
+    "neighbourhoods",
     "history",
-    "new",
-    "york",
-    "new",
-    "york",
-    "city"
+    "nyc",
+    "new york",
+    "new york city"
   ],
   "author": "ryanosaur",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ryanosaur/askthelocals-landing/issues"
   },
-  "homepage": "https://github.com/ryanosaur/askthelocals-landing#readme"
+  "homepage": "http://www.AskTheLocals.nyc",
+  "devDependencies": {
+    "node-sass": "^3.10.0",
+    "nodemon": "^1.10.2"
+  }
 }
